@@ -2,7 +2,7 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-28T16:21:55 IST" name="Suite" finished-at="2024-01-28T16:22:03 IST" duration-ms="8156">
+  <suite started-at="2024-01-28T16:59:28 IST" name="Suite" finished-at="2024-01-28T16:59:37 IST" duration-ms="8704">
     <groups>
       <group name="sanity">
         <method signature="RegisterTestCase.verify_register()[pri:0, instance:testCases.RegisterTestCase@4ec4f3a0]" name="verify_register" class="testCases.RegisterTestCase"/>
@@ -11,9 +11,9 @@
         <method signature="RegisterTestCase.verify_register()[pri:0, instance:testCases.RegisterTestCase@4ec4f3a0]" name="verify_register" class="testCases.RegisterTestCase"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2024-01-28T16:21:55 IST" name="chromeTest" finished-at="2024-01-28T16:22:03 IST" duration-ms="8156">
+    <test started-at="2024-01-28T16:59:28 IST" name="chromeTest" finished-at="2024-01-28T16:59:37 IST" duration-ms="8704">
       <class name="testCases.RegisterTestCase">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.RegisterTestCase@4ec4f3a0]" started-at="2024-01-28T16:21:55 IST" name="setup" finished-at="2024-01-28T16:22:01 IST" duration-ms="5376" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.RegisterTestCase@4ec4f3a0]" started-at="2024-01-28T16:59:29 IST" name="setup" finished-at="2024-01-28T16:59:35 IST" duration-ms="5953" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -24,11 +24,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_register()[pri:0, instance:testCases.RegisterTestCase@4ec4f3a0]" started-at="2024-01-28T16:22:01 IST" name="verify_register" finished-at="2024-01-28T16:22:03 IST" duration-ms="2240" status="PASS">
+        <test-method signature="verify_register()[pri:0, instance:testCases.RegisterTestCase@4ec4f3a0]" started-at="2024-01-28T16:59:35 IST" name="verify_register" finished-at="2024-01-28T16:59:37 IST" duration-ms="2069" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_register -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.RegisterTestCase@4ec4f3a0]" started-at="2024-01-28T16:22:03 IST" name="teardown" finished-at="2024-01-28T16:22:03 IST" duration-ms="263" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.RegisterTestCase@4ec4f3a0]" started-at="2024-01-28T16:59:37 IST" name="teardown" finished-at="2024-01-28T16:59:37 IST" duration-ms="384" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
