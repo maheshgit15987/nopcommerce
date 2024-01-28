@@ -39,3 +39,8 @@
 16:56:18.390 [TestNG-tests-1] INFO  testCases.Logintestcase - provider details
 16:56:19.396 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login button
 16:56:19.396 [TestNG-tests-1] INFO  testCases.Logintestcase - finished test
+16:10:00.442 [TestNG-tests-1] INFO  testCases.Logintestcase - Started login testcase
+16:10:01.074 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login link
+16:10:01.301 [TestNG-tests-1] INFO  testCases.Logintestcase - provider details
+16:10:01.824 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login button
+16:10:01.825 [TestNG-tests-1] INFO  testCases.Logintestcase - finished test
