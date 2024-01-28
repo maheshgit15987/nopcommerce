@@ -1,0 +1,58 @@
+14:51:07.122 [TestNG-tests-1] INFO  testCases.RegisterTestCase - clicked on home register
+14:51:07.134 [TestNG-tests-1] INFO  testCases.RegisterTestCase - entering register details
+14:51:08.850 [TestNG-tests-1] INFO  testCases.RegisterTestCase - clicked on register page
+14:51:08.850 [TestNG-tests-1] INFO  testCases.RegisterTestCase - Test finished
+14:57:38.053 [TestNG-tests-1] INFO  testCases.RegisterTestCase - ***** Starting test ******
+14:57:38.774 [TestNG-tests-1] INFO  testCases.RegisterTestCase - clicked on home register
+14:57:38.774 [TestNG-tests-1] INFO  testCases.RegisterTestCase - entering register details
+14:57:40.262 [TestNG-tests-1] INFO  testCases.RegisterTestCase - clicked on register page
+14:57:40.263 [TestNG-tests-1] INFO  testCases.RegisterTestCase - Test finished
+14:58:26.830 [TestNG-tests-1] INFO  testCases.RegisterTestCase - ***** Starting test ******
+14:58:27.506 [TestNG-tests-1] INFO  testCases.RegisterTestCase - clicked on home register
+14:58:27.506 [TestNG-tests-1] INFO  testCases.RegisterTestCase - entering register details
+14:58:28.875 [TestNG-tests-1] INFO  testCases.RegisterTestCase - clicked on register page
+14:58:28.875 [TestNG-tests-1] INFO  testCases.RegisterTestCase - Test finished
+14:58:32.867 [TestNG-tests-1] INFO  testCases.Logintestcase - Started login testcase
+14:58:33.562 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login link
+14:58:33.746 [TestNG-tests-1] INFO  testCases.Logintestcase - provider details
+14:58:34.258 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login button
+14:58:34.258 [TestNG-tests-1] INFO  testCases.Logintestcase - finished test
+14:59:26.914 [TestNG-tests-1] INFO  testCases.RegisterTestCase - ***** Starting test ******
+14:59:27.688 [TestNG-tests-1] INFO  testCases.RegisterTestCase - clicked on home register
+14:59:27.688 [TestNG-tests-1] INFO  testCases.RegisterTestCase - entering register details
+14:59:29.384 [TestNG-tests-1] INFO  testCases.RegisterTestCase - clicked on register page
+14:59:29.384 [TestNG-tests-1] INFO  testCases.RegisterTestCase - Test finished
+14:59:33.165 [TestNG-tests-1] INFO  testCases.Logintestcase - Started login testcase
+14:59:33.914 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login link
+14:59:34.121 [TestNG-tests-1] INFO  testCases.Logintestcase - provider details
+14:59:34.634 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login button
+14:59:34.634 [TestNG-tests-1] INFO  testCases.Logintestcase - finished test
+15:01:12.326 [TestNG-tests-1] INFO  testCases.RegisterTestCase - ***** Starting test ******
+15:01:13.064 [TestNG-tests-1] INFO  testCases.RegisterTestCase - clicked on home register
+15:01:13.064 [TestNG-tests-1] INFO  testCases.RegisterTestCase - entering register details
+15:01:15.045 [TestNG-tests-1] INFO  testCases.RegisterTestCase - clicked on register page
+15:01:15.045 [TestNG-tests-1] INFO  testCases.RegisterTestCase - Test finished
+15:01:20.360 [TestNG-tests-1] INFO  testCases.Logintestcase - Started login testcase
+15:01:21.091 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login link
+15:01:21.283 [TestNG-tests-1] INFO  testCases.Logintestcase - provider details
+15:01:21.810 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login button
+15:01:21.811 [TestNG-tests-1] INFO  testCases.Logintestcase - finished test
+15:04:08.126 [TestNG-tests-1] INFO  testCases.RegisterTestCase - ***** Starting test ******
+15:04:08.869 [TestNG-tests-1] INFO  testCases.RegisterTestCase - clicked on home register
+15:04:08.869 [TestNG-tests-1] INFO  testCases.RegisterTestCase - entering register details
+15:04:10.600 [TestNG-tests-1] INFO  testCases.RegisterTestCase - clicked on register page
+15:04:10.600 [TestNG-tests-1] INFO  testCases.RegisterTestCase - Test finished
+15:04:14.601 [TestNG-tests-1] INFO  testCases.Logintestcase - Started login testcase
+15:04:15.300 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login link
+15:04:15.484 [TestNG-tests-1] INFO  testCases.Logintestcase - provider details
+15:04:16.005 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login button
+15:04:16.005 [TestNG-tests-1] INFO  testCases.Logintestcase - finished test
+15:10:51.713 [TestNG-tests-1] INFO  testCases.Logintestcase - Started login testcase
+15:10:52.433 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login link
+15:10:52.642 [TestNG-tests-1] INFO  testCases.Logintestcase - provider details
+15:10:53.178 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login button
+15:10:53.178 [TestNG-tests-1] INFO  testCases.Logintestcase - finished test
+15:13:52.035 [TestNG-tests-1] INFO  testCases.Logintestcase - Started login testcase
+15:13:52.741 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login link
+15:13:52.945 [TestNG-tests-1] INFO  testCases.Logintestcase - provider details
+15:13:53.454 [TestNG-tests-1] INFO  testCases.Logintestcase - clicked on login button
